@@ -1,0 +1,27 @@
+Job Title: Senior Full-Stack Software Engineer
+Company: CloudNexus Technologies
+Location: Remote / Hybrid
+
+About The Role:
+We are seeking an experienced Senior Full-Stack Engineer to lead the design and implementation of modern web platforms.
+
+Key Responsibilities:
+- Build responsive, interactive client applications with React and TypeScript.
+- Architect high-throughput server runtimes using Node.js and Express.js.
+- Design relational schemas and optimize complex SQL queries in PostgreSQL.
+- Containerize application services using Docker and manage deployment pipelines.
+- Deploy and monitor microservices infrastructure in AWS cloud environments.
+- Foster clear communication across engineering, product, and UI/UX design teams.
+
+Requirements & Qualifications:
+1. 4+ years of professional full-stack development experience.
+2. Strong proficiency with React (ReactJS), modern JavaScript, and TypeScript is required.
+3. Proven experience building RESTful backend APIs with Node.js is required.
+4. Experience with Docker and containerized deployments is required.
+5. Strong proficiency in relational database architecture using PostgreSQL is required.
+6. Hands-on experience deploying scalable cloud services on AWS is required.
+7. Excellent verbal and written Communication skills are required for cross-team alignment.
+
+Preferred Qualifications:
+- Familiarity with automated CI/CD deployment pipelines using GitHub Actions is preferred.
+- Prior exposure to Redis in-memory caching is a plus.

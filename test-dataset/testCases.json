@@ -1,0 +1,32 @@
+[
+  {
+    "id": "TC-001",
+    "title": "Senior Cloud Full Stack Developer",
+    "description": "Tests synonym matching (ReactJS = React, NodeJS = Node.js), evidence extraction, and missing cloud skills.",
+    "resumeText": "Alex Rivera\nSummary: Passionate Full Stack Developer with 4 years building scalable web apps.\nCore Skills: ReactJS, Redux Toolkit, NodeJS, Express.js, MongoDB, JavaScript (ES6), HTML5, CSS3, Git.\nExperience: Developed RESTful microservices with Node.js and Mongo. Crafted interactive user interfaces with ReactJS and Redux.",
+    "jobDescriptionText": "Job Title: Senior Cloud Full Stack Engineer\nWe are looking for a skilled engineer to join our core product team.\nRequirements:\n1. 4+ years of professional development experience with React.js and Node.js.\n2. Strong demonstrated proficiency with TypeScript is required.\n3. Experience with PostgreSQL and relational database design is required.\n4. Hands-on experience with Docker and containerized deployments is mandatory.\n5. Experience with AWS cloud infrastructure (EC2, S3) and CI/CD pipelines is strongly preferred.",
+    "expectedSkillsInResume": ["React", "JavaScript", "Node.js", "Express.js", "MongoDB", "Redux", "HTML5", "CSS3", "Git", "REST API"],
+    "expectedMissingSkills": ["TypeScript", "PostgreSQL", "Docker", "AWS", "CI/CD"],
+    "expectedMatchedSkills": ["React", "Node.js"]
+  },
+  {
+    "id": "TC-002",
+    "title": "Cloud Platform & DevOps Specialist",
+    "description": "Tests two-column resume parsing, systems skills, and DevOps toolset gap detection.",
+    "resumeText": "DevOps Candidate | Systems Engineer\nSKILLS OVERVIEW:\nLinux (Ubuntu/Debian), Python, Bash scripting, Docker containers, Git, CI/CD with GitHub Actions.\n\nPROFESSIONAL SUMMARY:\nExperienced in managing Linux servers, containerizing applications with Docker, and orchestrating CI/CD pipelines.",
+    "jobDescriptionText": "Position: Cloud Infrastructure Engineer\nRequirements:\n- Must be highly experienced with Linux server administration and shell environments.\n- Hands-on experience with Docker is required.\n- Proven production experience with Kubernetes (K8s) cluster management is strictly required.\n- Experience with Terraform infrastructure as code (IaC) is required.\n- Professional experience with AWS cloud services is preferred.",
+    "expectedSkillsInResume": ["Linux", "Python", "Docker", "Git", "CI/CD"],
+    "expectedMissingSkills": ["Kubernetes", "Terraform", "AWS"],
+    "expectedMatchedSkills": ["Linux", "Docker"]
+  },
+  {
+    "id": "TC-003",
+    "title": "Lead Frontend UI Architect",
+    "description": "Tests framework substitution gap detection (Vue vs React/Next.js) and modern CSS tooling.",
+    "resumeText": "Sarah Lin - Senior Frontend Engineer\nTechnical Proficiencies: Vue.js, Vuex, JavaScript (ES6+), HTML5, CSS3, Sass, Webpack, REST APIs.\nWork History: Senior Frontend Developer at Apex Corp. Built enterprise dashboards using Vue 3 and modern CSS.",
+    "jobDescriptionText": "Role: Principal Frontend Engineer\nQualifications:\n- Deep expertise in React and Next.js is required for our customer-facing web apps.\n- Fluency in TypeScript is mandatory for all frontend development.\n- Experience with Tailwind CSS and responsive design patterns is required.\n- Strong understanding of GraphQL APIs is required.\n- Demonstrated experience with Automated Testing using Jest or Cypress is preferred.",
+    "expectedSkillsInResume": ["Vue.js", "JavaScript", "HTML5", "CSS3", "Webpack", "REST API"],
+    "expectedMissingSkills": ["React", "Next.js", "TypeScript", "Tailwind CSS", "GraphQL", "Automated Testing"],
+    "expectedMatchedSkills": []
+  }
+]

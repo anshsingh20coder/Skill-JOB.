@@ -1,0 +1,28 @@
+ALEX RIVERA
+Full Stack Web Developer | alex.rivera@email.com | +1 (555) 019-2834 | San Francisco, CA | github.com/alexrivera
+
+PROFESSIONAL SUMMARY
+Dynamic Web Developer with 3+ years of experience engineering modern, user-centric web applications. Highly proficient in React.js, TypeScript, and modern frontend ecosystems. Passionate about responsive UI design and robust API integrations.
+
+TECHNICAL SKILLS
+• Languages: JavaScript (ES6+), TypeScript, HTML/CSS
+• Frontend: ReactJS, Redux Toolkit, Tailwind CSS, Responsive Web Design
+• Backend & Tools: NodeJS, Express.js, REST APIs, Git, GitHub, npm
+• Soft Skills: Clear cross-functional Communication, Agile collaboration, Teamwork
+
+PROFESSIONAL EXPERIENCE
+
+Frontend Software Engineer | PixelCraft Solutions | 2022 - Present
+• Engineered responsive user interfaces for SaaS analytics dashboard using React.js and TypeScript.
+• Styled modular, accessible UI components utilizing Tailwind CSS, reducing CSS bundle size by 40%.
+• Collaborated closely with backend engineers to integrate Node.js REST endpoints and handle real-time data feeds.
+• Spearheaded daily standup communication and contributed to sprint reviews with engineering stakeholders.
+
+Associate Web Developer | TechLaunch Agency | 2021 - 2022
+• Developed interactive client web portals using JavaScript, HTML5, and CSS3.
+• Maintained code repositories using Git and conducted peer pull request reviews.
+• Integrated third-party analytics and state management using Redux.
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of California, 2021

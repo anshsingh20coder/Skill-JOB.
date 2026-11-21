@@ -1,0 +1,22 @@
+Job Title: Senior Backend Python & AI Engineer
+Company: CognitiveFlow AI Labs
+Location: New York, NY / Hybrid
+
+Role Description:
+CognitiveFlow is seeking an experienced Backend Engineer to scale our AI-driven decision engines and real-time inference services.
+
+Responsibilities:
+- Build high-concurrency microservice APIs for predictive models.
+- Design database schemas and optimize read/write operations.
+- Maintain fast in-memory caching layers and job queues.
+- Write robust unit tests with high test coverage.
+
+Requirements:
+- Minimum 3+ years experience engineering backend web systems.
+- Advanced expertise in Python programming is required.
+- High proficiency building asynchronous microservices with FastAPI is required.
+- Solid understanding of relational database schema design in PostgreSQL is required.
+- Experience leveraging Redis for distributed caching and session caching is required.
+- Foundational knowledge of Machine Learning pipelines and model serving is required.
+- Must have experience packaging services inside Docker containers.
+- Rigorous commitment to Unit Testing and TDD using PyTest or Jest is required.

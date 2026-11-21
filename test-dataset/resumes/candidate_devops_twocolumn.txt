@@ -1,0 +1,20 @@
+MARCUS VANCE | Linux Systems Administrator & Cloud Enthusiast
+Phone: (512) 849-1102 | Email: marcus.vance@devops.net | Austin, TX
+
+-----------------------------------------------------------------------------------------
+CORE COMPETENCIES                         | WORK EXPERIENCE
+-----------------------------------------------------------------------------------------
+• Systems: Linux, Ubuntu, CentOS          | Linux Systems Administrator | GlobalNet Inc.
+• Containers: Docker, Dockerfile          | 2021 - Present | Austin, TX
+• Scripting: Python, Bash, Shell          | • Configured Linux servers across 40+ nodes.
+• Automation: CI/CD, GitHub Actions       | • Created Docker container images for microservices.
+• Version Control: Git, GitLab            | • Built automated CI/CD deployment pipelines.
+• Monitoring: Prometheus, Grafana         | • Authored automated Python scripts for backup cron.
+-----------------------------------------------------------------------------------------
+PROJECT HIGHLIGHTS
+• Linux High-Availability Cluster: Automated failover configuration for distributed databases.
+• CI/CD Pipeline Automation: Implemented GitHub Actions workflows for automated code testing.
+-----------------------------------------------------------------------------------------
+EDUCATION & CERTIFICATIONS
+• CompTIA Linux+ Certified Professional
+• B.S. in Information Systems, Texas State University

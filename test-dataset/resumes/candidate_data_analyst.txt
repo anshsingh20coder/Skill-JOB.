@@ -1,0 +1,26 @@
+PRIYA SHARMA
+Data Analyst & Applied ML Practitioner
+New York, NY | priya.sharma@analytics.io | linkedin.com/in/priyasharma
+
+PROFESSIONAL SUMMARY
+Analytical Data Professional with 3+ years of experience analyzing large-scale datasets, developing Machine Learning classification models, and writing optimized SQL queries in Python.
+
+TECHNICAL EXPERTISE
+• Programming: Python, SQL, R
+• Machine Learning: Scikit-Learn, Machine Learning algorithms, Predictive Modeling
+• Data Wrangling & BI: Pandas, NumPy, Data Analysis, Tableau, PowerBI
+• Workflow & Tools: Git, Jupyter Notebooks, Linux command line
+
+WORK EXPERIENCE
+Data Analyst | Quantix Financial | 2022 - Present
+• Engineered automated data pipelines in Python to process millions of transactions.
+• Trained Machine Learning models for fraud anomaly detection achieving 94% precision.
+• Authored complex SQL queries to generate operational business intelligence reports.
+• Maintained analytics codebase with Git version control.
+
+Junior Analytics Associate | MarketPulse Insights | 2021 - 2022
+• Performed exploratory Data Analysis and statistical significance testing.
+• Automated weekly data extraction scripts in Python.
+
+EDUCATION
+Bachelor of Science in Statistics and Data Science, Columbia University

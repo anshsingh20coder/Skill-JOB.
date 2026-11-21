@@ -1,0 +1,145 @@
+{
+  "version": "1.0.0",
+  "description": "SkillGap AI Ground Truth Evaluation Answer Key - Manually Verified by Senior Tech Leads",
+  "testCases": [
+    {
+      "id": "TC-01",
+      "name": "Senior Full-Stack Developer vs Frontend-Leaning Resume",
+      "description": "Tests skill synonym matching (ReactJS vs React.js), Docker missing evidence, and PostgreSQL gap.",
+      "jdFile": "test-dataset/jds/senior_fullstack_jd.txt",
+      "resumeFile": "test-dataset/resumes/candidate_alex_frontend.txt",
+      "expectedJdSkills": [
+        "React",
+        "Node.js",
+        "TypeScript",
+        "Docker",
+        "PostgreSQL",
+        "AWS",
+        "CI/CD",
+        "Communication"
+      ],
+      "expectedResumeSkills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "HTML/CSS",
+        "Tailwind CSS",
+        "Git",
+        "Communication"
+      ],
+      "expectedMatchedSkills": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Communication"
+      ],
+      "expectedMissingSkills": [
+        "Docker",
+        "PostgreSQL",
+        "AWS",
+        "CI/CD"
+      ],
+      "synonymChecks": [
+        { "inputA": "ReactJS", "inputB": "React.js", "shouldMatch": true },
+        { "inputA": "Postgres", "inputB": "PostgreSQL", "shouldMatch": true },
+        { "inputA": "JS", "inputB": "JavaScript", "shouldMatch": true },
+        { "inputA": "TS", "inputB": "TypeScript", "shouldMatch": true }
+      ],
+      "evidenceSentences": {
+        "Docker": "Experience with Docker and containerized deployments is required.",
+        "PostgreSQL": "Strong proficiency in relational database architecture using PostgreSQL is required.",
+        "AWS": "Hands-on experience deploying scalable cloud services on AWS is required.",
+        "CI/CD": "Familiarity with automated CI/CD deployment pipelines using GitHub Actions is preferred."
+      }
+    },
+    {
+      "id": "TC-02",
+      "name": "Cloud DevOps Engineer vs Systems Admin",
+      "description": "Tests multi-column layout extraction, Kubernetes, Terraform, and cloud platform verification.",
+      "jdFile": "test-dataset/jds/devops_cloud_engineer_jd.txt",
+      "resumeFile": "test-dataset/resumes/candidate_devops_twocolumn.txt",
+      "expectedJdSkills": [
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "AWS",
+        "Linux",
+        "Python",
+        "CI/CD"
+      ],
+      "expectedResumeSkills": [
+        "Docker",
+        "Linux",
+        "Python",
+        "Git",
+        "CI/CD"
+      ],
+      "expectedMatchedSkills": [
+        "Docker",
+        "Linux",
+        "Python",
+        "CI/CD"
+      ],
+      "expectedMissingSkills": [
+        "Kubernetes",
+        "Terraform",
+        "AWS"
+      ],
+      "synonymChecks": [
+        { "inputA": "K8s", "inputB": "Kubernetes", "shouldMatch": true },
+        { "inputA": "Amazon Web Services", "inputB": "AWS", "shouldMatch": true }
+      ],
+      "evidenceSentences": {
+        "Kubernetes": "Demonstrated expertise orchestrating production workloads on Kubernetes (K8s) is mandatory.",
+        "Terraform": "Proven track record managing Infrastructure as Code via Terraform is required.",
+        "AWS": "Deep operational knowledge of AWS networking, VPC, and IAM policies is required."
+      }
+    },
+    {
+      "id": "TC-03",
+      "name": "Backend Python / AI Engineer vs Data Analyst",
+      "description": "Tests Fast API, Redis, Machine Learning, and Unit Testing evidence.",
+      "jdFile": "test-dataset/jds/python_backend_engineer_jd.txt",
+      "resumeFile": "test-dataset/resumes/candidate_data_analyst.txt",
+      "expectedJdSkills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Redis",
+        "Machine Learning",
+        "Docker",
+        "Unit Testing"
+      ],
+      "expectedResumeSkills": [
+        "Python",
+        "SQL",
+        "Data Analysis",
+        "Machine Learning",
+        "Git"
+      ],
+      "expectedMatchedSkills": [
+        "Python",
+        "Machine Learning"
+      ],
+      "expectedMissingSkills": [
+        "FastAPI",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "Unit Testing"
+      ],
+      "synonymChecks": [
+        { "inputA": "FastAPI", "inputB": "Fast API", "shouldMatch": true },
+        { "inputA": "Redis Cache", "inputB": "Redis", "shouldMatch": true }
+      ],
+      "evidenceSentences": {
+        "FastAPI": "High proficiency building asynchronous microservices with FastAPI is required.",
+        "PostgreSQL": "Solid understanding of relational database schema design in PostgreSQL is required.",
+        "Redis": "Experience leveraging Redis for distributed caching and session caching is required.",
+        "Docker": "Must have experience packaging services inside Docker containers.",
+        "Unit Testing": "Rigorous commitment to Unit Testing and TDD using PyTest or Jest is required."
+      }
+    }
+  ]
+}

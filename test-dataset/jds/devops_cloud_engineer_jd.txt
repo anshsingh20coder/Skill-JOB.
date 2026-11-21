@@ -1,0 +1,22 @@
+Job Title: Cloud DevOps & Site Reliability Engineer
+Company: SkyScale Systems
+Location: Austin, TX / Remote
+
+Position Overview:
+We are looking for a Cloud DevOps Engineer to scale our distributed cloud footprint, automate deployments, and maintain infrastructure resilience.
+
+Key Responsibilities:
+- Manage multi-cluster container orchestration and autoscaling policies.
+- Automate cloud infrastructure provisioning using declarative code templates.
+- Maintain and enhance continuous integration and continuous deployment pipelines.
+- Ensure high availability, observability, and robust Linux system administration.
+
+Core Requirements:
+- 3+ years of dedicated DevOps or Site Reliability Engineering experience.
+- Demonstrated expertise orchestrating production workloads on Kubernetes (K8s) is mandatory.
+- Proven track record managing Infrastructure as Code via Terraform is required.
+- Deep operational knowledge of AWS networking, VPC, and IAM policies is required.
+- Strong scripting skills in Python and Bash for infrastructure automation are required.
+- Hands-on experience creating Docker images and container runtimes is required.
+- Proficiency configuring automated CI/CD pipelines is required.
+- Deep familiarity with Linux operating systems and kernel troubleshooting is required.
